@@ -4,5 +4,6 @@
 
 ### 18.08.2023
 - git
+-- Shortcuts 
 - Syntaxis 
 
