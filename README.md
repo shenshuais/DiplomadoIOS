@@ -4,5 +4,7 @@
 
 ### 18.08.2023
 - git
+-- versiones
+-- conflicto
 - Syntaxis 
 
