@@ -8,5 +8,11 @@
         <page name='Loop'/>
         <page name='while'/>
         <page name='exercise'/>
+        <page name='function_method'/>
+        <page name='Closures'/>
+        <page name='Test'/>
+        <page name='Protocol'/>
+        <page name='extensions'/>
+        <page name='generics'/>
     </pages>
 </playground>
